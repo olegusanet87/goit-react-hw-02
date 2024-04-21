@@ -1,4 +1,4 @@
-import css from "./Reset.module.css"
+import css from "../Reset/Reset.module.css"
 
 export default function Reset() {
 	return (
