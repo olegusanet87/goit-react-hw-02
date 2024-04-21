@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react'
-import Feedback from "./components/Feedback/Feedback"
-import Description from "./components/Description/Description"
-import Reset from "./components/Reset/Reset"
-import Options from "./components/Options/Options"
+import { useState, useEffect } from 'react';
+import Feedback from "./components/Feedback/Feedback";
+import Description from "./components/Description/Description";
+import Reset from "./components/Reset/Reset";
+import Options from "./components/Options/Options";
 
 
 
