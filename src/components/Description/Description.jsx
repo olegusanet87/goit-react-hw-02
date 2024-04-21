@@ -1,4 +1,4 @@
-import css from "./Description.module.css"
+import css from "../Description/Description.module.css"
 export default function Description() {
 	return (
 		<div className={css.box}>
