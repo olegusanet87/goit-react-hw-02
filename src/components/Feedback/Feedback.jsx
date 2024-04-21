@@ -14,7 +14,7 @@ export default function Feedback({ reviews: { good, neutral, bad }, totalReviews
 					<p className={css.reviews}><span className={css.red}>Bad:{bad}</span></p>
 				</li>
 			</ul>
-			<div className={css.space}>
+			<div className={css.total}>
 				<p className={css.descr}>Total:{totalReviews}</p>
 				<p className={css.descr}>Positive:{positive || 0}%</p>
 			</div>

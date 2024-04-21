@@ -1,4 +1,4 @@
-import clsx from "clsx"
+
 import css from "./Options.module.css"
 
 export default function Options({ updateFeedback, total, onReset }) {
